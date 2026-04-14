@@ -1,45 +1,47 @@
-# ¡Hola! Soy Alberto Peña 👋 
+# Hi there! I'm Alberto Peña 👋
 
-### 🎓 Matemático & Computer Scientist | Estudiante Becado @ UCM
-**Donde la abstracción matemática se encuentra con la lógica eficiente.**
+### 🎓 Mathematician & Computer Scientist | Scholarship Student @ UCM
+**Where mathematical abstraction meets highly efficient logic.**
 
-Soy estudiante de 4º curso en la **Universidad Complutense de Madrid**. Mi enfoque combina el rigor del análisis matemático con la implementación de software de alto nivel. Me apasiona la Inteligencia Artificial, la optimización y la resolución de problemas mediante paradigmas de programación avanzados.
+I am a 4th-year student at **Universidad Complutense de Madrid (UCM)**. My focus bridges the gap between rigorous mathematical analysis and software implementation. I am deeply passionate about Artificial Intelligence, optimization algorithms, and solving complex problems through advanced programming paradigms.
 
 ---
 
-## 🚀 Actualmente enfocado en:
-- 🕹️ **TFG:** Desarrollo de agentes para **Pac-Man** comparando algoritmos de búsqueda clásica frente a **Reinforcement Learning**.
+## 🚀 Currently focused on:
+- 🕹️ **B.Sc. Thesis (TFG):** Developing intelligent agents for **Pac-Man**, running a critical comparative analysis between classical search algorithms and **Reinforcement Learning** models.
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Tech Stack
 
-| Área | Tecnologías |
+| Area | Technologies |
 | :--- | :--- |
-| **General & Systems** | `Python`, `C/C++` (Estructuras de datos y diseño de algoritmos) |
-| **Logic & Declarative** | `Haskell` (Funcional), `Prolog`, `Maude` (Programación lógica/especificación) |
-| **Math & Data** | `Matlab`, `R` (Análisis Numérico), `LaTeX`, `Zotero` |
+| **Core & Systems** | `C/C++` (Memory management, ADTs), `Python` (Simulation, HPC) |
+| **Logic & Declarative** | `Haskell` (Functional), `Prolog`, `Maude` (Logic programming / Algebraic specification) |
+| **Math & Data** | `Matlab`, `R` (Numerical Analysis), `LaTeX`, `Zotero` |
 
 ---
 
-## 💎 Proyectos Destacados
+## 💎 Featured Projects
 
-### 👾 [Pac-Man RL: Tradicional vs IA](enlace)
-Comparativa crítica entre algoritmos de caminos mínimos y aprendizaje máquina.
-> $$Q(s, a) = r + \gamma \max_{a'} Q(s', a')$$
+### 👾 [Pac-Man RL: Traditional vs AI] *(Work in Progress)*
+A critical comparative analysis between shortest-path algorithms and machine learning approaches to solve dynamic environments.
 
-### 🧪 [Algoritmo ACO & Genéticos](enlace)
-Implementación en **Haskell** para resolver el problema del viajante (TSP). Aplicación de programación funcional avanzada para optimización de colonias de hormigas.
+### 🗂️ [C++ Data Structures (ADT) Library](https://github.com/albertitop17/cpp-data-structures)
+A robust C++ library of Abstract Data Types built from scratch. Categorized implementation of linear structures, BSTs, Heaps, and Hash Tables with formal algebraic specifications and rigorous **O(n)** complexity analysis.
 
-### 🔢 [Optimización FJ y KKT](enlace)
-Implementación en **Python** de optimización de mínimos mediante las condiciones de **Fritz John (FJ)** y **Karush-Kuhn-Tucker (KKT)**. Incluye análisis comparativo y discusión de resultados sobre modelos no lineales.
+### 🖥️ [GPU Architecture Simulation](https://github.com/albertitop17/gpu-architecture-simulation)
+Python-based GPGPU simulation emulating Streaming Multiprocessors (SMs) and thread-level parallelism for High-Performance Computing (HPC). Features SIMT synchronization and shared memory mapping.
 
----
-
-## 📈 Estadísticas de GitHub
-![Estadísticas de albertitop17](https://github-readme-stats.vercel.app/api?username=albertitop17&show_icons=true&theme=radical)
+### 🐜 [Ant Colony Optimization (ACO) & Genetics](https://github.com/albertitop17/ant-colony-optimization)
+Implementation in **Haskell** to solve the Traveling Salesperson Problem (TSP). Applies advanced functional programming techniques to optimize colony behavior.
 
 ---
 
-## 📫 Conectemos
+## 📈 GitHub Stats
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertitop17&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/alberto-pp](https://www.linkedin.com/in/alberto-pp)
 - **Email:** [alberto.7pp@gmail.com](mailto:alberto.7pp@gmail.com)
-- **Localización:** Torrejón de Ardoz, Madrid
+- **Location:** Torrejón de Ardoz, Madrid (Spain)
