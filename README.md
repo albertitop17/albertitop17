@@ -8,7 +8,7 @@ I am a 4th-year student at **Universidad Complutense de Madrid (UCM)**. My focus
 ---
 
 ## 🚀 Currently focused on:
-- 🕹️ **B.Sc. Thesis (TFG):** Developing intelligent agents for **Pac-Man**, running a critical comparative analysis between classical search algorithms and **Reinforcement Learning** models.
+- 🕹️ **B.Sc. Thesis (TFG):** Developing intelligent agents for **Pac-Man**.
 
 ## 🛠️ Tech Stack
 
